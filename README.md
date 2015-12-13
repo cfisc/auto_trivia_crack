@@ -21,3 +21,7 @@ The settings.conf file is a json file which contains several possible settings f
 
 The password you provide to this program is not stored in anyway by this program. It is however passed in plain text and not even masked on the input to the console.
 Additionally, the trivia crack api uses insecure http so any password you provide to it is passed in clear-text over the network. Be Careful.
+
+**Cfisc edit**
+
+I've pulled this so I can contribute to the project. If you have any suggestions, comments, etc. Please post them in the comments section!
